@@ -74,6 +74,7 @@ No. | Name | Description
 02 | [moshi](https://github.com/square/moshi) | A modern JSON library for Android and Java
 03 | [ig-json-parser](https://github.com/Instagram/ig-json-parser) | Fast JSON parser for java projects
 04 | [Jackson](http://jackson.codehaus.org/) |  Formerly known as the standard JSON library for Java
+05 | [JustJson](https://github.com/apptik/JustJson) |  JSON helper library for Android
 
 ## Image Loader
 No. | Name | Description
