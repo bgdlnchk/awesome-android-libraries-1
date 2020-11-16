@@ -219,6 +219,7 @@ No. | Name | Description
 01 | [ThreeTenABP](https://github.com/JakeWharton/ThreeTenABP) | An adaptation of the JSR-310 backport for Android
 02 | [Joda Time Android](https://github.com/dlew/joda-time-android) | Joda-Time library with Android specialization
 03 | [truetime-android](https://github.com/instacart/truetime-android) | Android NTP time library. Get the true current time impervious to device clock time changes
+04 | [SecureTimer](https://github.com/kk121/SecureTimer) | Android library for getting current time (Not affected by device time)
 
 ## Image Processing
 No. | Name | Description
