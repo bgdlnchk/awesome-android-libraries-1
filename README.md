@@ -108,7 +108,9 @@ No. | Name | Description
 03 | [Zorn](https://github.com/HendrixString/Android-Zorn) | Async Workers and Worker managers for Android
 04 | [Bolts](https://github.com/BoltsFramework/Bolts-Android) | Bolts is a collection of low-level libraries designed to make developing mobile apps easier
 05 | [Tape](https://github.com/square/tape) | A lightning fast, transactional, file-based FIFO for Android and Java
+06 | [AsyncJobLibrary](https://github.com/Arasthel/AsyncJobLibrary) | Android library to easily queue background and UI tasks
 
+https://github.com/Arasthel/AsyncJobLibrary
 ## Pub/Sub
 No. | Name | Description
 --- | --- | ---
