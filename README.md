@@ -390,6 +390,7 @@ No. | Name | Description
 --- | --- | ---
 01 | [android-remote-notifications](https://github.com/kaiwinter/android-remote-notifications) | Pulls notifications from a remote JSON file and shows them in your app
 02 | [AndroidHeartBeatFixer](https://github.com/joaopedronardari/AndroidHeartBeatFixer) | Way to set heartbeat interval and the User receive PushNotifications from GCM. Based on related post in Google Forums about HeartBeat problem
+03 | [Notify-Android](https://github.com/isradeleon/Notify-Android) | Android library that simplifies system notifications and adds some extra functionality
 
 ## SVG
 No. | Name | Description
